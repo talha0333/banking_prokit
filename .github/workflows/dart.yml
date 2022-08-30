@@ -23,7 +23,7 @@ jobs:
       # https://github.com/dart-lang/setup-dart/blob/main/README.md
       - uses: dart-lang/setup-dart@v1
         with:
-          dart-version: '2.15.0'
+          dart-version: '2.18.0'
 
       - uses: subosito/flutter-action@v1
         with:
