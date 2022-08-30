@@ -27,6 +27,7 @@ dev_dependencies:
     sdk: flutter
   mobx_codegen: ^2.0.5+2
   build_runner: ^2.1.7
+  test: ^1.21.5
   #flutter packages pub run build_runner build --delete-conflicting-outputs
 flutter:
   uses-material-design: true
